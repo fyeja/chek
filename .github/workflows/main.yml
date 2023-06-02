@@ -11,11 +11,17 @@ jobs:
       - uses: actions/checkout@v3
       - name: check
         run: |
+          git pull
           rm -rf *.txt
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
+          cp .github/workflows/relaycheck.sh dnscrypt-resolvers/.github/workflows/relaycheck.sh
           cd dnscrypt-resolvers
           curl https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json | grep -B 12  -A 1 '"proto": "DNSCrypt",' | grep  -A 14 '"dnssec": true,' | grep  -A 13 '"ipv6": false,' | grep  -A 6 -B 1 '"nofilter": false,' | grep  -A 5 -B 3 '"nolog": true,'| sed -e '/nofilter/d' -e '/nolog/d' -e '/ports/{N;d;}' -e '/proto/d' -e '/]/d' -e '/family/,+2d' -e '/sfw/,+2d' -e '/nogoogle/,+2d'  -e '/adguard/,+2d' -e '/cleanbrowsing/,+2d' -e '/quad9/,+2d' -e 's/"name":/##/g' -e 's/"//g' -e 's/stamp: sdns:/sdns:/g' -e 's/,//g' -e 's/^[ \t]*//' > v3/public-resolvers.md
-          .github/workflows/resolverscheck.sh | tee ../resolverscheck.txt
+          .github/workflows/resolverscheck.sh | tee resolverscheck
+          sort -u resolverscheck | tee ../resolverscheck
+          chmod chmod +x .github/workflows/relaycheck.sh
+          .github/workflows/relaycheck.sh | tee relaycheck
+          sort -u relaycheck | tee ../relaycheck
           rm -rf ../dnscrypt-resolvers
       - name: commit
         run: |
