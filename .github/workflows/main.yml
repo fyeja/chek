@@ -11,8 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: check
         run: |
-          git pull
-          rm -rf *.txt
+          rm -rf *
           git clone https://github.com/dnscrypt/dnscrypt-resolvers.git
           cp .github/workflows/relaycheck.sh dnscrypt-resolvers/.github/workflows/relaycheck.sh
           cd dnscrypt-resolvers
@@ -21,7 +20,8 @@ jobs:
           sort -u resolverscheck | tee ../resolverscheck
           chmod +x .github/workflows/relaycheck.sh
           .github/workflows/relaycheck.sh | tee relaycheck
-          sort -u relaycheck | tee ../relaycheck
+          sed -e '/linux/d' -e '/ERROR/d' relaycheck > relaycheck.txt
+          sort -u relaycheck.txt | tee ../relaycheck
           rm -rf ../dnscrypt-resolvers
       - name: commit
         run: |
