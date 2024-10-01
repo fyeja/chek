@@ -36,7 +36,6 @@ pass: anon-cs-nl
 pass: anon-cs-nl2
 pass: anon-cs-norway
 pass: anon-cs-nv
-pass: anon-cs-nyc1
 pass: anon-cs-nyc2
 pass: anon-cs-ore
 pass: anon-cs-poland
@@ -74,7 +73,6 @@ pass: anon-sth-se
 pass: anon-tiarap
 pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
-pass: dnscry.pt-anon-allentown-ipv4
 pass: dnscry.pt-anon-amsterdam-ipv4
 pass: dnscry.pt-anon-amsterdam02-ipv4
 pass: dnscry.pt-anon-ashburn-ipv4
