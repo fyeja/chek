@@ -45,7 +45,7 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-fluffycat-fr-01 (1 retry)
+pass: anon-fluffycat-fr-01
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-openinternet
@@ -53,7 +53,6 @@ pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
 pass: anon-saldns03-conoha-ipv4
 pass: anon-saldns99-conoha-ipv4
-pass: anon-scaleway
 pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
