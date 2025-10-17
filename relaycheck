@@ -116,7 +116,6 @@ pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
-pass: dnscry.pt-anon-losangeles02-ipv4
 pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
@@ -169,6 +168,6 @@ pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-tuusula-ipv4
 pass: dnscry.pt-anon-valdivia-ipv4
 pass: dnscry.pt-anon-vancouver-ipv4
-pass: dnscry.pt-anon-vilnius-ipv4
+pass: dnscry.pt-anon-vilnius-ipv4 (2 retries)
 pass: dnscry.pt-anon-warsaw02-ipv4
 pass: dnscry.pt-anon-yerevan-ipv4
