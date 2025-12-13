@@ -13,7 +13,7 @@ pass: anon-cs-fl
 pass: anon-cs-fr
 pass: anon-cs-ga
 pass: anon-cs-hungary
-pass: anon-cs-il
+pass: anon-cs-il (1 retry)
 pass: anon-cs-india
 pass: anon-cs-la
 pass: anon-cs-london
@@ -94,7 +94,7 @@ pass: dnscry.pt-anon-geneva-ipv4
 pass: dnscry.pt-anon-grandrapids-ipv4
 pass: dnscry.pt-anon-guayaquil-ipv4
 pass: dnscry.pt-anon-hafnarfjordur-ipv4
-pass: dnscry.pt-anon-hanoi-ipv4
+pass: dnscry.pt-anon-hanoi-ipv4 (3 retries)
 pass: dnscry.pt-anon-helsinki-ipv4
 pass: dnscry.pt-anon-hochiminhcity-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
