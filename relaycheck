@@ -23,7 +23,7 @@ pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nl
 pass: anon-cs-norway
-pass: anon-cs-nv
+pass: anon-cs-nv (1 retry)
 pass: anon-cs-nyc
 pass: anon-cs-ore
 pass: anon-cs-poland
@@ -39,7 +39,6 @@ pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
-pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
 pass: anon-jp1.vr.ekinao.com
@@ -53,7 +52,6 @@ pass: anon-scaleway-ams
 pass: anon-scaleway2
 pass: anon-serbica
 pass: anon-tiarap
-pass: anon-v.dnscrypt.uk-ipv4
 pass: dnscry.pt-anon-adelaide-ipv4
 pass: dnscry.pt-anon-allendale-ipv4
 pass: dnscry.pt-anon-allentown-ipv4
