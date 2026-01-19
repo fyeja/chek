@@ -41,8 +41,8 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnswarden-swiss
 pass: anon-inconnu
-pass: anon-jp1.vr.ekinao.com (1 retry)
-pass: anon-jp2.vr.ekinao.com (2 retries)
+pass: anon-jp1.vr.ekinao.com (2 retries)
+pass: anon-jp2.vr.ekinao.com
 pass: anon-kama
 pass: anon-saldns01-conoha-ipv4
 pass: anon-saldns02-conoha-ipv4
@@ -140,7 +140,6 @@ pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newcastle-ipv4
 pass: dnscry.pt-anon-newyork-ipv4
-pass: dnscry.pt-anon-nuremberg-ipv4
 pass: dnscry.pt-anon-ogden-ipv4
 pass: dnscry.pt-anon-oradea-ipv4
 pass: dnscry.pt-anon-ottoville-ipv4
