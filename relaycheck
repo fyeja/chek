@@ -59,6 +59,7 @@ pass: dnscry.pt-anon-ashburn-ipv4
 pass: dnscry.pt-anon-athens-ipv4
 pass: dnscry.pt-anon-atlanta-ipv4
 pass: dnscry.pt-anon-auckland-ipv4
+pass: dnscry.pt-anon-baku-ipv4
 pass: dnscry.pt-anon-bangkok-ipv4
 pass: dnscry.pt-anon-barcelona-ipv4
 pass: dnscry.pt-anon-bengaluru-ipv4
@@ -122,6 +123,7 @@ pass: dnscry.pt-anon-ljubljana-ipv4
 pass: dnscry.pt-anon-london-ipv4
 pass: dnscry.pt-anon-losangeles-ipv4
 pass: dnscry.pt-anon-losangeles02-ipv4
+pass: dnscry.pt-anon-luxembourg-ipv4
 pass: dnscry.pt-anon-madrid-ipv4
 pass: dnscry.pt-anon-manchester-ipv4
 pass: dnscry.pt-anon-manila-ipv4
@@ -148,6 +150,7 @@ pass: dnscry.pt-anon-phoenix-ipv4
 pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-prague-ipv4
+pass: dnscry.pt-anon-queretaro-ipv4
 pass: dnscry.pt-anon-redditch-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
@@ -171,7 +174,6 @@ pass: dnscry.pt-anon-taos-ipv4
 pass: dnscry.pt-anon-telaviv-ipv4
 pass: dnscry.pt-anon-thessaloniki-ipv4
 pass: dnscry.pt-anon-timisoara-ipv4
-pass: dnscry.pt-anon-tirana-ipv4
 pass: dnscry.pt-anon-tokyo-ipv4
 pass: dnscry.pt-anon-tokyo02-ipv4
 pass: dnscry.pt-anon-toronto-ipv4
