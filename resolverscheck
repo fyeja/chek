@@ -1,0 +1,21 @@
+ipv6: dnscry.pt-ashburn-ipv6
+ipv6: dnscry.pt-lima02-ipv4
+ipv6: dnscry.pt-redditch-ipv6
+ipv6: dnscry.pt-stockholm-ipv4
+ipv6: dnscry.pt-tampa-ipv6
+ipv6: dnscry.pt-tokyo02-ipv6
+pass: 
+pass: dnscry.pt-bratislava-ipv4
+pass: dnscry.pt-guayaquil-ipv4
+pass: dnscry.pt-guayaquil-ipv6
+pass: dnscry.pt-halifax-ipv6
+pass: dnscry.pt-istanbul-ipv6
+pass: dnscry.pt-libertylake-ipv4
+pass: dnscry.pt-lima02-ipv4
+pass: dnscry.pt-montreal-ipv4
+pass: dnscry.pt-oradea-ipv6
+pass: dnscry.pt-portland-ipv6
+pass: dnscry.pt-seoul02-ipv4
+pass: dnscry.pt-spokane-ipv6
+pass: dnscry.pt-thessaloniki-ipv6
+pass: plan9dns-fl
