@@ -1,18 +1,19 @@
-ipv6: cs-czech
-ipv6: cs-nv
-ipv6: cs-pt
-ipv6: dnscry.pt-atlanta-ipv6
-ipv6: dnscry.pt-valdivia-ipv6
-pass: 
-pass: cs-dc6
-pass: dnscry.pt-ashburn-ipv4
-pass: dnscry.pt-auckland-ipv4
-pass: dnscry.pt-ebenecity02-ipv6 (1 retry)
-pass: dnscry.pt-fujairah-ipv4
-pass: dnscry.pt-guayaquil-ipv4
-pass: dnscry.pt-hongkong03-ipv6
+ipv6: cs-md
+ipv6: dnscry.pt-amsterdam03-ipv4
+ipv6: dnscry.pt-bratislava-ipv6
+ipv6: dnscry.pt-frankfurt02-ipv4
+ipv6: dorriere-fr
+pass: cs-ore6
+pass: cs-vancouver
+pass: dnscry.pt-bogota-ipv4
+pass: dnscry.pt-budapest-ipv4
+pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-istanbul-ipv4
-pass: dnscry.pt-lasvegas-ipv6
-pass: dnscry.pt-miami-ipv6
-pass: dnscry.pt-redditch-ipv6
-pass: dnscry.pt-tallinn-ipv4
+pass: dnscry.pt-kyiv-ipv6
+pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-madrid-ipv6
+pass: dnscry.pt-marseille-ipv4
+pass: dnscry.pt-stockholm02-ipv6
+pass: dnscry.pt-tallinn-ipv6
+pass: dnscry.pt-tirana-ipv4
+pass: dnscry.pt-tokyo-ipv6
