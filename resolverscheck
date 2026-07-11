@@ -1,10 +1,7 @@
-ipv6: cipherdns-jb1-za
-ipv6: cs-de6
-ipv6: cs-finland
-ipv6: dnscry.pt-frankfurt-ipv4
-ipv6: dnscry.pt-newcastle-ipv4
-ipv6: dnscry.pt-timisoara-ipv4
-pass: dnscry.pt-baku-ipv6
-pass: dnscry.pt-dublin-ipv6
-pass: dnscry.pt-hongkong03-ipv4
-pass: dnscry.pt-vienna-ipv4
+ipv6: cs-pt
+ipv6: dnscry.pt-riga-ipv4
+ipv6: dnscry.pt-tampa-ipv6
+pass: dnscry.pt-budapest-ipv4
+pass: dnscry.pt-dhaka-ipv6
+pass: dnscry.pt-lisbon-ipv4
+pass: dnscry.pt-singapore02-ipv4
