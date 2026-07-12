@@ -1,7 +1,7 @@
-ipv6: cs-pt
-ipv6: dnscry.pt-riga-ipv4
-ipv6: dnscry.pt-tampa-ipv6
-pass: dnscry.pt-budapest-ipv4
-pass: dnscry.pt-dhaka-ipv6
-pass: dnscry.pt-lisbon-ipv4
+ipv6: dnscry.pt-amsterdam03-ipv6
+ipv6: dnscry.pt-denver-ipv6
+ipv6: dnscry.pt-taipeh-ipv4
+pass: cs-poland
+pass: dnscry.pt-coventry-ipv6
+pass: dnscry.pt-seoul02-ipv6
 pass: dnscry.pt-singapore02-ipv4
