@@ -1,7 +1,9 @@
-ipv6: dnscry.pt-amsterdam03-ipv6
-ipv6: dnscry.pt-denver-ipv6
-ipv6: dnscry.pt-taipeh-ipv4
-pass: cs-poland
-pass: dnscry.pt-coventry-ipv6
-pass: dnscry.pt-seoul02-ipv6
-pass: dnscry.pt-singapore02-ipv4
+ipv6: dnscry.pt-nuremberg-ipv4
+ipv6: dnscry.pt-tokyo-ipv6
+pass: 
+pass: cs-milan
+pass: cs-montreal
+pass: cs-nv
+pass: cs-singapore6
+pass: dnscry.pt-ebenecity02-ipv4
+pass: dnscry.pt-santaclara-ipv6
